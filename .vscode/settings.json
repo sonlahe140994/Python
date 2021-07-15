@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "C:\\Program Files\\Microsoft SQL Server\\150\\PYTHON_SERVER\\python.exe"
+}
